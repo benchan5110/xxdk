@@ -820,6 +820,9 @@ http://223.110.245.134/PLTV/3/224/3221226656/index.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1, group-title="其他频道", 港剧-陀枪师姐
 http://alhls.cdn.zhanqi.tv/zqlive/264395_mnbIi.m3u8
+=================================================================
+#EXTINF:-1, group-title="其他频道",电影-迪士尼
+http://aldirect.hls.huya.com/huyalive/290106097-2689406818-11550914328949424128-2789274560-10057-a-1525417691-1_1200.m3u8
 #EXTINF:-1, group-title="其他频道", 电影-复仇犯罪
 http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
 #EXTINF:-1, group-title="其他频道", 电影-女神港片
