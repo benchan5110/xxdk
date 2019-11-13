@@ -301,7 +301,7 @@ http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
 http://cstv.live.wscdns.com/live/xiamen4/playlist.m3u8
 #EXTINF:-1, group-title="地方频道", 孝感公共
 http://xiaogan.live.cjyun.org/video/s10139-shpd/index.m3u8
-#EXTINF:-1, group-title="地方频道", 宁德公共
+#EXTINF:-1, group-title="地方频道", 宁德公共 
 http://220.161.247.82:8199/live/nd2_1128.m3u8
 #EXTINF:-1, group-title="地方频道", 宁德综合
 http://220.161.247.82:8199/live/nd1_1128.m3u8
