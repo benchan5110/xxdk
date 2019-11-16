@@ -168,14 +168,7 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 https://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
 #EXTINF:-1, group-title="地方频道", 香港HKS
 http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
-#EXTINF:-1 ,group-title="地方频道", 国家地理悠人
-http://cloud-play.hhalloy.com/live/0293b493509468a0a896adea05ad5e30.flv
-#EXTINF:-1 ,group-title="地方频道", 国家地理野生
-http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flv
-#EXTINF:-1 ,group-title="地方频道", 国家地理频道(台湾)
-http://59.125.101.122:8080/live/ngcxxx0714.m3u8
-#EXTINF:-1 ,group-title="地方频道", 国家地理频道
-http://cloud-play.hhalloy.com/live/1b4017a457de80eec599895ec807e124.flv 
+
 
 =====================================================
 #EXTINF:-1, group-title="地方频道", 黑龙江卫视
