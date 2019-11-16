@@ -164,6 +164,8 @@ http://m.567it.com/Pearl.m3u8
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1, group-title="地方频道",漫威
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="地方频道",Disney
+https://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
 #EXTINF:-1, group-title="地方频道", 香港HKS
 http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
 =====================================================
