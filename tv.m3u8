@@ -192,10 +192,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
 #EXTINF:-1, group-title="地方频道", 韩ktv
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
-#EXTINF:-1, group-title="地方频道", 外SONY CHANNEL HD
-http://45.126.83.51/uq2663/h/h06/01.m3u8
-#EXTINF:-1, group-title="地方频道", 外Sony One HD
-http://45.126.83.51/uq2663/h/h13/01.m3u8
 #EXTINF:-1, group-title="地方频道", 台 DISCOVERY探索 慢
 rtmp://58.200.131.2:1935/livetv/discovery
 =====================================================
