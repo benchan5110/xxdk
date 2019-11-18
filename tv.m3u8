@@ -172,6 +172,26 @@ http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
 rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 #EXTINF:-1, group-title="地方频道", 日本WOWOW MOVIES
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1, group-title="地方频道", 日本NTV News24
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1, group-title="地方频道", 日本Shop Channel HD
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1, group-title="地方频道", 日本Japanet Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:-1, group-title="地方频道", 韩Chosun HD
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 韩Sony One HD2
+http://210.210.155.35/uq2663/h/h13/index.m3u8
+#EXTINF:-1, group-title="地方频道", 韩Sony One HD3
+http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29596?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
+#EXTINF:-1, group-title="地方频道", 韩K PLUS HD
+http://45.126.83.51/uq2663/h/h08/01.m3u8
+#EXTINF:-1, group-title="地方频道", 韩Arirang South Korea HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 韩KBS WORLD
+http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
+#EXTINF:-1, group-title="地方频道", 韩ktv
+http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 =====================================================
 #EXTINF:-1, group-title="地方频道", 黑龙江卫视
 http://cctvtxyh5c.liveplay.myqcloud.com/wstv/heilongjiang_2/index.m3u8
