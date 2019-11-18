@@ -194,12 +194,8 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 #EXTINF:-1, group-title="地方频道", 台 DISCOVERY探索 慢
 rtmp://58.200.131.2:1935/livetv/discovery
-#EXTINF:-1, group-title="地方频道", BBC Earth
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1, group-title="地方频道", BBC World News1
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1, group-title="地方频道", BBC World News2
-http://z5ams.akamaized.net/bbcworldnews/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="地方频道", BBC-Toronto
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 =====================================================
 #EXTINF:-1, group-title="地方频道", 黑龙江卫视
 http://cctvtxyh5c.liveplay.myqcloud.com/wstv/heilongjiang_2/index.m3u8
