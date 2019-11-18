@@ -198,7 +198,7 @@ http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 rtmp://58.200.131.2:1935/livetv/discovery
 #EXTINF:-1, group-title="地方频道", BBC-Toronto
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1, group-title="地方频道",迪士尼頻道台
+#EXTINF:-1, group-title="地方频道", 迪士尼頻道台
 https://link.zhihu.com/?target=http%3A//kb1.ottclub.info%3A443/fmts/n710.stream/playlist.m3u8%3Fa%3D58f0bed9%26b%3DPu51-RhPi8nT4tEu1fDndw
 =====================================================
 #EXTINF:-1, group-title="地方频道", 黑龙江卫视
