@@ -170,8 +170,8 @@ https://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-
 http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
 #EXTINF:-1, group-title="地方频道", 台 国家地理 
 rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
-#EXTINF:-1, group-title="地方频道", 日本動畫ANIMAX HD 1 
-http://45.126.83.51/dr9445/h/h18/01.m3u8
+#EXTINF:-1, group-title="地方频道", 日本WOWOW MOVIES
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 =====================================================
 #EXTINF:-1, group-title="地方频道", 黑龙江卫视
 http://cctvtxyh5c.liveplay.myqcloud.com/wstv/heilongjiang_2/index.m3u8
