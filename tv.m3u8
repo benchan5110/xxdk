@@ -146,6 +146,18 @@ http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8?md5
 http://113.96.109.95/stream1.grtn.cn/typd/sd/live.m3u8?_upt=111ed55e1574087109
 #EXTINF:-1, group-title="地方频道",國家地理hd
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1, group-title="地方频道", Discovery科学[HD]
+http://pili-live-hdl.qhmywl.com/dsdtv/f82bcb85f1a67e5b4754f7be0661dc72.flv
+#EXTINF:-1, group-title="地方频道", Discovery Asia
+http://pili-live-hdl.qhmywl.com/dsdtv/f325e0ce8ddf55c2df916b6f2bc0e07c.flv
+#EXTINF:-1, group-title="地方频道", Discovery[HD]
+ http://pili-live-hdl.qhmywl.com/dsdtv/ef2748398207873cae12b151ae78b0af.flv
+#EXTINF:-1, group-title="地方频道", 国家地理悠人
+http://pili-live-hdl.qhmywl.com/dsdtv/0293b493509468a0a896adea05ad5e30.flv
+#EXTINF:-1, group-title="地方频道", 国家地理野生
+http://pili-live-hdl.qhmywl.com/dsdtv/a4540237835700ece1fc1e54ce826125.flv
+#EXTINF:-1, group-title="地方频道", 国家地理HD
+http://pili-live-hdl.qhmywl.com/dsdtv/1b4017a457de80eec599895ec807e124.flv
 #EXTINF:-1, group-title="地方频道", 台湾壹新闻
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
 #EXTINF:-1, group-title="地方频道", 湖南快乐购
