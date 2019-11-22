@@ -54,6 +54,10 @@ http://45.126.83.51/uq2663/h/h08/01.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1, group-title="地方频道", 韩KBS WORLD
 http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
+#EXTINF:-1, group-title="地方频道", 韩国tv
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 韩国KBS1
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
 #EXTINF:-1, group-title="地方频道", 韩ktv
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 #EXTINF:-1, group-title="地方频道", 台 DISCOVERY探索 慢
