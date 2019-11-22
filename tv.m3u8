@@ -10,8 +10,6 @@ http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047427/index.m3u8?
 #EXTINF:-1, group-title="地方频道", ViuTV
 http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
-#EXTINF:-1, group-title="地方频道", 探索科学
-http://122.155.180.8:5021/live/457
 #EXTINF:-1, group-title="地方频道",香港电台31
 http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_1296_av-b.m3u8
 #EXTINF:-1, group-title="地方频道",香港开电视
@@ -30,8 +28,6 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 https://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
 #EXTINF:-1, group-title="地方频道", 香港HKS
 http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
-#EXTINF:-1, group-title="地方频道", 台 国家地理 
-rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 #EXTINF:-1, group-title="地方频道", 日本WOWOW MOVIES
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 #EXTINF:-1, group-title="地方频道", 日本NTV News24
@@ -61,6 +57,14 @@ http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 #EXTINF:-1, group-title="地方频道", BBC-Toronto
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 =====================================================================
+#EXTINF:-1, group-title="地方频道", 台 国家地理 
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+#EXTINF:-1, group-title="地方频道", 探索科学
+http://122.155.180.8:5021/live/457
+#EXTINF:-1, group-title="地方频道",動物星球頻道1
+http://161.0.157.6/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1, group-title="地方频道",動物星球頻道2
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
 #EXTINF:-1, group-title="地方频道", 國家地理hd
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1, group-title="地方频道", 台 DISCOVERY探索 慢
