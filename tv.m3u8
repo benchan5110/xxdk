@@ -64,6 +64,433 @@ http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 rtmp://58.200.131.2:1935/livetv/discovery
 #EXTINF:-1, group-title="地方频道", BBC-Toronto
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+=====================================================================
+#EXTINF:-1,OSN cinema 1
+http://livecdnh1.tvanywhere.ae/hls/cin1/02.m3u8
+#EXTINF:-1,Osn star world
+http://livecdnh1.tvanywhere.ae/hls/star_world/02.m3u8
+#EXTINF:-1,Osn star movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/02.m3u8
+#EXTINF:-1,Music now
+http://livecdnh1.tvanywhere.ae/hls/music_now/02.m3u8
+#EXTINF:-1,CINEMA 1 HD
+http://livecdnh1.tvanywhere.ae/hls/cin1/05.m3u8
+#EXTINF:-1,cinema 1 sd
+http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
+#EXTINF:-1,Music Now HD
+http://livecdnh1.tvanywhere.ae/hls/music_now/05.m3u8
+#EXTINF:-1,Music Now sd
+http://livecdnh1.tvanywhere.ae/hls/music_now/03.m3u8
+#EXTINF:-1,STAR MOVIES HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1,Star Movies SD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+#EXTINF:-1,STAR WORLD HD
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+#EXTINF:-1,Star World SD
+http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
+#EXTINF:-1,Nat geo people HD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1,Nat geo people SD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
+#EXTINF:-1,Nat geo wild SD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+#EXTINF:-1,Nat geo wild HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1,Dmc drama sd
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/02.m3u8
+#EXTINF:-1,Dmc drama MQ
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
+#EXTINF:-1,arab cinema 1 hi
+http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
+#EXTINF:-1,nat_geo
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1,ProSieben-Maxx
+http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
+#EXTINF:-1,STAR MOVIES FHD
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/04.m3u8
+#EXTINF:-1,STAR WORLD FHD
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/04.m3u8
+#EXTINF:-1,STAR WORLD PREMIER FHD
+http://livecdnh1.tvanywhere.ae:80/hls/music_now/04.m3u8
+#EXTINF:-1,ARABIC | NBN HD
+http://livecdnh1.tvanywhere.ae:80/hls/nbn/05.m3u8
+#EXTINF:-1,National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1, Sports EPL 1 – Sports EPL 1
+http://163.172.118.212:80/live.ts?channelId=190&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1, Sports EPL 2 – Sports EPL 2
+http://163.172.118.212:80/live.ts?channelId=191&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1, Sports EPL 3 – Sports EPL 3
+http://163.172.118.212:80/live.ts?channelId=192&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF：-1，英國：電影院（盜版）SD
+http://thenew.tv:8000/Roxy1/Roxy12/21683
+#EXTINF：-1，英國：4音樂| SD
+http://thenew.tv:8000/Roxy1/Roxy12/7775
+#EXTINF：-1，UK：4SEVEN | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21606
+#EXTINF：-1，UK：5 SELECT | HD
+http://thenew.tv:8000/Roxy1/Roxy12/21602
+#EXTINF：-1，UK：5 SPIKE | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21600
+#EXTINF：-1，UK：5星1 | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21598
+#EXTINF：-1，UK：5星| SD
+http://thenew.tv:8000/Roxy1/Roxy12/21597
+#EXTINF：-1，UK：5 USA | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21592
+#EXTINF：-1，UK：AL JAZEERA | 超高清
+http://thenew.tv:8000/Roxy1/Roxy12/5833
+#EXTINF：-1，UK：ALIBI | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21590
+#EXTINF：-1，UK：Alibi HD
+http://thenew.tv:8000/Roxy1/Roxy12/22272
+#EXTINF：-1，UK：AMC | UHD
+http://thenew.tv:8000/Roxy1/Roxy12/21682
+#EXTINF：-1，UK：Animal Planet
+http://thenew.tv:8000/Roxy1/Roxy12/21609
+#EXTINF：-1，UK：At種族| SD
+http://thenew.tv:8000/Roxy1/Roxy12/21794
+#EXTINF：-1，UK：BABY TV | SD
+http://thenew.tv:8000/Roxy1/Roxy12/9783
+#EXTINF：-1，UK：BBC ALBA | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21589
+#EXTINF：-1，UK：BBC四| 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21586
+#EXTINF：-1，UK：BBC新聞高清
+http://thenew.tv:8000/Roxy1/Roxy12/21621
+#EXTINF：-1，UK：BBC ONE（北愛爾蘭）| HD
+http://thenew.tv:8000/Roxy1/Roxy12/21582
+#EXTINF：-1，UK：BBC ONE（Scottland）| HD
+http://thenew.tv:8000/Roxy1/Roxy12/21581
+#EXTINF：-1，UK：BBC ONE | UHD
+http://thenew.tv:8000/Roxy1/Roxy12/21579
+#EXTINF：-1，UK：BBC One Cambridge | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21577
+#EXTINF：-1，UK：BBC一頻道群島| SD
+http://thenew.tv:8000/Roxy1/Roxy12/21575
+#EXTINF：-1，UK：BBC One East | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21572
+#EXTINF：-1，UK：BBC東部中部地區| SD
+http://thenew.tv:8000/Roxy1/Roxy12/21571
+#EXTINF：-1，UK：BBC東約克郡| 標清
+http://thenew.tv:8000/Roxy1/Roxy12/21568
+#EXTINF：-1，英國：英國廣播公司一號威爾士| 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21566
+#EXTINF：-1，英國：英國廣播公司一號西部中部地區
+http://thenew.tv:8000/Roxy1/Roxy12/21562
+#EXTINF：-1，UK ：BBC議會| SD
+http://thenew.tv:8000/Roxy1/Roxy12/21620
+#EXTINF：-1，UK：英國廣播公司紅色按鈕| SD
+http://thenew.tv:8000/Roxy1/Roxy12/21792
+#EXTINF：-1，英國：BBC TWO（北愛爾蘭）
+http://thenew.tv:8000/Roxy1/Roxy12/21561
+#EXTINF：-1 ，英國：BBC TWO（北愛爾蘭）*
+http://thenew.tv:8000/Roxy1/Roxy12/21558
+#EXTINF：-1，英國：BBC TW | HD
+http://thenew.tv:8000/Roxy1/Roxy12/21557
+#EXTINF：-1，UK：BBC TWO | 超高清
+http://thenew.tv:8000/Roxy1/Roxy12/21552
+#EXTINF：-1，UK：英國廣播公司兩個威爾士
+http://thenew.tv:8000/Roxy1/Roxy12/21551
+#EXTINF：-1，UK：BEN
+http://thenew.tv:8000/Roxy1/Roxy12/21619
+#EXTINF：-1，UK：BET | HD
+http://thenew.tv:8000/Roxy1/Roxy12/21549
+#EXTINF：-1，UK：BET | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21546
+#EXTINF：-1，UK：BETFRED | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21545
+#EXTINF：-1，UK：Blaze | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21542
+#EXTINF：-1，UK：Box Hits
+http://thenew.tv:8000/Roxy1/Roxy12/21599
+#EXTINF：-1，UK：Box國家高清
+http://thenew.tv:8000/Roxy1/Roxy12/29447
+#EXTINF：-1，UK：Sport 1 | 超高清
+http://thenew.tv:8000/Roxy1/Roxy12/21789
+#EXTINF：-1，UK：Sport 2 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21786
+#EXTINF：-1，UK：Sport 3 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21781
+#EXTINF：-1，UK：Sport ESPN | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21776
+#EXTINF：-1，UK：Sport Extra 1 | 高清*
+http://thenew.tv:8000/Roxy1/Roxy12/21772
+#EXTINF：-1，UK：Sport Extra 2 | 高清*
+http://thenew.tv:8000/Roxy1/Roxy12/21771
+#EXTINF：-1，UK：Sport Extra 3 | 高清*
+http://thenew.tv:8000/Roxy1/Roxy12/21770
+#EXTINF：-1，UK：Sport Extra 4 | 高清*
+http://thenew.tv:8000/Roxy1/Roxy12/21769
+#EXTINF：-1，UK：Sport Extra 5 | 高清*
+http://thenew.tv:8000/Roxy1/Roxy12/21768
+#EXTINF：-1，UK：運動1 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21767
+#EXTINF：-1，UK：SPORTS 2 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21765
+#EXTINF：-1，UK：SPORTS 2 | UHD
+http://thenew.tv:8000/Roxy1/Roxy12/21764
+#EXTINF：-1，UK：SPORTS 3 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21763
+#EXTINF：-1，UK：SPORTS 3 | UHD
+http://thenew.tv:8000/Roxy1/Roxy12/21762
+#EXTINF：-1，UK：SPORTS EPSN | UHD
+http://thenew.tv:8000/Roxy1/Roxy12/21761
+#EXTINF：-1，UK：SPORTS ESPN | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21760
+#EXTINF：-1，UK：SPORTS EXTRA 1 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21759
+#EXTINF：-1，UK：SPORTS EXTRA 2 | 高畫質
+http://thenew.tv:8000/Roxy1/Roxy12/21758
+#EXTINF：-1，UK：SPORTS EXTRA 3 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21757
+#EXTINF：-1，UK：SPORTS EXTRA 4 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21756
+#EXTINF：-1，UK：SPORTS EXTRA 5 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21755
+#EXTINF：-1，UK：SPORTS EXTRA 6 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21754
+#EXTINF：-1，UK：SPORTS EXTRA 7 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21753
+#EXTINF：-1，UK：CARTOONITO | SD
+http://thenew.tv:8000/Roxy1/Roxy12/9782
+#EXTINF：-1，UK：CBBC | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/9781
+#EXTINF：-1，UK：CBEEBIES | UHD
+http://thenew.tv:8000/Roxy1/Roxy12/9780
+#EXTINF：-1，UK：CBS行動| SD
+http://thenew.tv:8000/Roxy1/Roxy12/21539
+#EXTINF：-1，UK：CBS劇集| SD
+http://thenew.tv:8000/Roxy1/Roxy12/21537
+#EXTINF：-1，UK：CBS現實| SD
+http://thenew.tv:8000/Roxy1/Roxy12/21534
+#EXTINF：-1，UK：Challenge
+http://thenew.tv:8000/Roxy1/Roxy12/21533
+#EXTINF：-1，UK：CHANNEL 4 1 | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21596
+#EXTINF：-1，UK：Channel 4 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21530
+#EXTINF：-1，UK：CHANNEL 4 | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21529
+#EXTINF：-1，UK：CHANNEL 4 | UHD
+http://thenew.tv:8000/Roxy1/Roxy12/21526
+#EXTINF：-1，UK：第5頻道| 高畫質
+http://thenew.tv:8000/Roxy1/Roxy12/21525
+#EXTINF：-1，UK：CHANNEL 5 | UHD
+http://thenew.tv:8000/Roxy1/Roxy12/21521
+#EXTINF：-1，UK：圖表顯示點擊數
+http://thenew.tv:8000/Roxy1/Roxy12/21594
+#EXTINF：-1，UK：圖表顯示電視| SD
+http://thenew.tv:8000/Roxy1/Roxy12/7774
+#EXTINF：-1，UK：切爾西電視台| HD
+http://thenew.tv:8000/Roxy1/Roxy12/21752
+#EXTINF：-1，UK：CITV | HD
+http://thenew.tv:8000/Roxy1/Roxy12/21517
+#EXTINF：-1，UK：Clubland | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21516
+#EXTINF：-1，UK：CNN
+http://thenew.tv:8000/Roxy1/Roxy12/21618
+#EXTINF：-1，UK：CNN | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21515
+#EXTINF：-1，UK：CNN | 超高清
+http://thenew.tv:8000/Roxy1/Roxy12/21617
+#EXTINF：-1，UK：CNN INTERNATIONAL | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21616
+#EXTINF：-1，UK：COMEDY CENTRAL | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21514
+#EXTINF：-1，UK：COMEDY CENTRAL XTRA 1 | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21513
+#EXTINF：-1，UK：COMEDY CENTRAL XTRA | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21512
+#EXTINF：-1，UK：珊瑚電視
+http://thenew.tv:8000/Roxy1/Roxy12/21511
+#EXTINF：-1，UK：犯罪和調查| UHD
+http://thenew.tv:8000/Roxy1/Roxy12/21593
+#EXTINF：-1，UK：犯罪調查| HD *
+http://thenew.tv:8000/Roxy1/Roxy12/21591
+#EXTINF：-1，UK：犯罪調查| 標清
+http://thenew.tv:8000/Roxy1/Roxy12/21588
+#EXTINF：-1，UK：DAVE | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21510
+#EXTINF：-1，UK：DAVE | UHD
+http://thenew.tv:8000/Roxy1/Roxy12/21509
+#EXTINF：-1，UK：DAVE JA VU | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21508
+#EXTINF：-1，UK：Deutche Welle英文
+http://thenew.tv:8000/Roxy1/Roxy12/21507
+#EXTINF：-1，UK：光盤歷史記錄
+http://thenew.tv:8000/Roxy1/Roxy12/21587
+#EXTINF：-1，UK：光盤科學
+http://thenew.tv:8000/Roxy1/Roxy12/21585
+#EXTINF：-1，UK：發現頻道
+http://thenew.tv:8000/Roxy1/Roxy12/21583
+#EXTINF：-1，UK：發現頻道| UHD
+http://thenew.tv:8000/Roxy1/Roxy12/21580
+#EXTINF：-1，英國：發現歷史| SD
+http://thenew.tv:8000/Roxy1/Roxy12/21578
+#EXTINF：-1，UK：發現科學| SD
+http://thenew.tv:8000/Roxy1/Roxy12/21576
+#EXTINF：-1，UK：發現棚| 標清
+http://thenew.tv:8000/Roxy1/Roxy12/21574
+#EXTINF：-1，UK：Discovery Shed HD
+http://thenew.tv:8000/Roxy1/Roxy12/22273
+#EXTINF：-1，UK： Discovery Turbo
+http://thenew.tv:8000/Roxy1/Roxy12/21573
+#EXTINF：-1，UK：DISNEY CHANNEL | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/9778
+#EXTINF：-1，UK：DISNEY JR | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/9777
+#EXTINF：-1，UK：DISNEY XD | HD
+http://thenew.tv:8000/Roxy1/Roxy12/9776
+#EXTINF：-1，UK：DMAX | 高畫質
+http://thenew.tv:8000/Roxy1/Roxy12/21506
+#EXTINF：-1，UK：DMAX | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21569
+#EXTINF：-1，UK：DRAMA | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21505
+#EXTINF：-1，UK：E！
+http://thenew.tv:8000/Roxy1/Roxy12/21504
+#EXTINF：-1，UK：E！| SD
+http://thenew.tv:8000/Roxy1/Roxy12/21503
+#EXTINF：-1，UK：E4 1 | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21567
+#EXTINF：-1，UK：E4 | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21565
+#EXTINF：-1，UK：E4 | UHD
+http://thenew.tv:8000/Roxy1/Roxy12/21502
+#EXTINF：-1，UK：EDEN | FHD
+http://thenew.tv:8000/Roxy1/Roxy12/21563
+#EXTINF：-1，UK：EDEN | 高畫質
+http://thenew.tv:8000/Roxy1/Roxy12/21560
+#EXTINF：-1，UK：EDEN | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21559
+#EXTINF：-1，UK：EIR體育1 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21751
+#EXTINF：-1，UK：EIR體育2 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21750
+#EXTINF：-1，英國：十一體育1 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/24264
+#EXTINF：-1，英國：十一體育2 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/24263
+#EXTINF：-1，英國：十一運動會24/7 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/24262
+#EXTINF：-1，UK：Euronews | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21615
+#EXTINF：-1，UK：Eurosport 1 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21749
+#EXTINF：-1，英國：Eurosport 1 | UHD
+http://thenew.tv:8000/Roxy1/Roxy12/21747
+#EXTINF：-1，UK：EUROSPORT 2 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21746
+#EXTINF：-1，UK：EUROSPORT 2 | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21745
+#EXTINF：-1，UK：Eurosport 2 | UHD
+http://thenew.tv:8000/Roxy1/Roxy12/21744
+#EXTINF：-1，UK：FILM4 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21501
+#EXTINF：-1，UK：FILM4 | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21681
+#EXTINF：-1，UK：精細生活| 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21500
+#EXTINF：-1，英國：食品網絡| SD
+http://thenew.tv:8000/Roxy1/Roxy12/21499
+#EXTINF：-1，UK：Force TV | 標清
+http://thenew.tv:8000/Roxy1/Roxy12/21556
+#EXTINF：-1，UK：Fox | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21498
+#EXTINF：-1，UK：FOX | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21497
+#EXTINF：-1，UK：法國24 | UHD
+http://thenew.tv:8000/Roxy1/Roxy12/21614
+#EXTINF：-1，UK：免費運動| SD
+http://thenew.tv:8000/Roxy1/Roxy12/21743
+#EXTINF：-1，UK：GINXeSports電視| SD
+http://thenew.tv:8000/Roxy1/Roxy12/21742
+#EXTINF：-1，UK：GOLD | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21496
+#EXTINF：-1，UK：好食品| 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21554
+#EXTINF：-1，UK：H2 | UHD
+http://thenew.tv:8000/Roxy1/Roxy12/21553
+#EXTINF：-1，UK：HBO | 高畫質
+http://thenew.tv:8000/Roxy1/Roxy12/21680
+#EXTINF：-1，英國：紅心大戰
+http://thenew.tv:8000/Roxy1/Roxy12/21494
+#EXTINF：-1，英國：歷史| FHD
+http://thenew.tv:8000/Roxy1/Roxy12/21550
+#EXTINF：-1，UK：歷史| SD
+http://thenew.tv:8000/Roxy1/Roxy12/21547
+#EXTINF：-1，UK：HISTORY 2 | UHD
+http://thenew.tv:8000/Roxy1/Roxy12/21544
+#EXTINF：-1，UK：歷史頻道高清
+http://thenew.tv:8000/Roxy1/Roxy12/22274
+#EXTINF：-1，UK：居家與健康| SD
+http://thenew.tv:8000/Roxy1/Roxy12/21493
+#EXTINF：-1，UK：SD
+http://thenew.tv:8000/Roxy1/Roxy12/21492
+#EXTINF：-1，UK：恐怖頻道
+http://thenew.tv:8000/Roxy1/Roxy12/21678
+#EXTINF：-1，英國：調查發現| SD
+http://thenew.tv:8000/Roxy1/Roxy12/21538
+#EXTINF：-1，UK：ITV 1 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21491
+#EXTINF：-1，UK：ITV 1 | UHD
+http://thenew.tv:8000/Roxy1/Roxy12/21489
+#EXTINF：-1，UK：ITV 2 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21488
+#EXTINF：-1，UK：ITV 3 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21485
+#EXTINF：-1，UK：ITV 4 | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21482
+#EXTINF：-1，UK：ITV BE | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21479
+#EXTINF：-1，UK：KERRANG | SD
+http://thenew.tv:8000/Roxy1/Roxy12/7773
+#EXTINF：-1，UK：KISS
+http://thenew.tv:8000/Roxy1/Roxy12/21535
+#EXTINF：-1，英國：立博電視
+http://thenew.tv:8000/Roxy1/Roxy12/21477
+#EXTINF：-1，英國：利物浦FC電視| SD
+http://thenew.tv:8000/Roxy1/Roxy12/10322
+#EXTINF：-1，UK：Motorsport.tv
+http://thenew.tv:8000/Roxy1/Roxy12/21472
+#EXTINF：-1，UK： MOVIES24
+http://thenew.tv:8000/Roxy1/Roxy12/21677
+#EXTINF：-1，UK：MOVIES4MEN
+http://thenew.tv:8000/Roxy1/Roxy12/21676
+#EXTINF：-1，UK：MTV | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21471
+#EXTINF：-1，UK：MTV | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21470
+#EXTINF：-1，UK：MTV基地| SD
+http://thenew.tv:8000/Roxy1/Roxy12/7772
+#EXTINF：-1，UK：MTV音樂| SD
+http://thenew.tv:8000/Roxy1/Roxy12/7771
+#EXTINF：-1，英國：MUTV | HD
+http://thenew.tv:8000/Roxy1/Roxy12/21739
+#EXTINF：-1，UK：MUTV | SD
+http://thenew.tv:8000/Roxy1/Roxy12/21738
+#EXTINF：-1，UK：NAT GEO WILD | 高清
+http://thenew.tv:8000/Roxy1/Roxy12/21531
+#EXTINF：-1，英國：國家地理| SD
+http://thenew.tv:8000/Roxy1/Roxy12/21527
+#EXTINF：-1，US：探索人生高清
+http://thenew.tv:8000/Roxy1/Roxy12/40360
+#EXTINF：-1，美國：發現科學高清
+http://thenew.tv:8000/Roxy1/Roxy12/3446
+#EXTINF：-1，US：發現家庭
+http://thenew.tv:8000/Roxy1/Roxy12/3389
+#EXTINF：-1，美國：迪斯尼頻道
+http://thenew.tv:8000/Roxy1/Roxy12/3388
+#EXTINF：-1，US：迪士尼頻道Paficic
+http://thenew.tv:8000/Roxy1/Roxy12/3387
+#EXTINF：-1，US：Disney Junior
+http://thenew.tv:8000/Roxy1/Roxy12/40361
+#EXTINF：-1，US：迪士尼Junior Pacific
+http://thenew.tv:8000/Roxy1/Roxy12/3386
+#EXTINF：-1，US：Disney XD
+http://thenew.tv:8000/Roxy1/Roxy12/3385
 =====================================================
 #EXTINF:-1, group-title="中央频道", CCTV-1
 http://223.110.245.170/PLTV/3/224/3221225530/index.m3u8
