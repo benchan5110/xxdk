@@ -3,7 +3,7 @@
 #EXTINF:-1, group-title="地方频道", 香港电影频道
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 #EXTINF:-1, group-title="地方频道", 广东体育
-http://mgzb.live.miguvideo.com:8088/wd_r3/2018/nfmedia/gdty/350/01.m3u8?msisdn=E86F61904DF815A5CC1B31921C362BD6&mdspid=&spid=699054&netType=0&sid=5500002207&pid=2028597139&timestamp=20191122185944&Channel_ID=H5_&ProgramID=624303497&ParentNodeID=-99&assertID=5500002207&client_ip=61.160.247.210&SecurityKey=20191122185944&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&mtv_session=4783b099fa334ffbab78bf71a95136f1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e28236db8115763c6c71fa9c3e223dd1
+http://cdn12.switchium.com/gdty.m3u8
 #EXTINF:-1, group-title="地方频道", 台湾壹新闻
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
 #EXTINF:-1, group-title="地方频道", 湖南快乐购
