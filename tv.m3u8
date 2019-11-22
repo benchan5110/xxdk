@@ -93,9 +93,9 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1, group-title="地方频道",Nat geo people SD ENGLISH
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-#EXTINF:-1, group-title="地方频道",Nat geo wild SD
+#EXTINF:-1, group-title="地方频道",國家地理野生頻道 SD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:-1, group-title="地方频道",Nat geo wild HD
+#EXTINF:-1, group-title="地方频道",國家地理野生頻道HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1, group-title="地方频道",Dmc drama sd
 http://livecdnh1.tvanywhere.ae/hls/dmcdrama/02.m3u8
