@@ -3,7 +3,7 @@
 #EXTINF:-1, group-title="地方频道", 香港电影频道
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 #EXTINF:-1, group-title="地方频道", 广东体育
-http://cdn12.switchium.com/gdty.m3u8
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1, group-title="地方频道", 台湾壹新闻
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
 #EXTINF:-1, group-title="地方频道", 湖南快乐购
