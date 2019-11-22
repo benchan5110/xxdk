@@ -4,8 +4,6 @@
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 #EXTINF:-1, group-title="地方频道", 广东体育
 http://116.153.35.246/stream1.grtn.cn/typd/sd/live.m3u8?_upt=2a1df2b91574419098
-#EXTINF:-1, group-title="地方频道", 國家地理hd
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1, group-title="地方频道", 台湾壹新闻
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
 #EXTINF:-1, group-title="地方频道", 湖南快乐购
@@ -60,11 +58,13 @@ http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
 #EXTINF:-1, group-title="地方频道", 韩ktv
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
-#EXTINF:-1, group-title="地方频道", 台 DISCOVERY探索 慢
-rtmp://58.200.131.2:1935/livetv/discovery
 #EXTINF:-1, group-title="地方频道", BBC-Toronto
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 =====================================================================
+#EXTINF:-1, group-title="地方频道", 國家地理hd
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1, group-title="地方频道", 台 DISCOVERY探索 慢
+rtmp://58.200.131.2:1935/livetv/discovery
 #EXTINF:-1, group-title="地方频道",國家地理歷險頻道HD ENGLISH
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1, group-title="地方频道",國家地理歷險頻道SD ENGLISH
