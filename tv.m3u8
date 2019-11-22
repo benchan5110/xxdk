@@ -152,6 +152,8 @@ http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047427/index.m3u8?
 #EXTINF:-1, group-title="地方频道", ViuTV
 http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
+#EXTINF:-1, group-title="地方频道", ViuT99
+https://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 #EXTINF:-1, group-title="地方频道",香港电台31
 http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_1296_av-b.m3u8
 #EXTINF:-1, group-title="地方频道",香港开电视
