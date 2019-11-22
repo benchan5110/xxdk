@@ -65,107 +65,107 @@ rtmp://58.200.131.2:1935/livetv/discovery
 #EXTINF:-1, group-title="地方频道", BBC-Toronto
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 =====================================================================
-#EXTINF:-1,OSN cinema 1
+#EXTINF:-1, group-title="地方频道",OSN cinema 1
 http://livecdnh1.tvanywhere.ae/hls/cin1/02.m3u8
-#EXTINF:-1,Osn star world
+#EXTINF:-1, group-title="地方频道",Osn star world
 http://livecdnh1.tvanywhere.ae/hls/star_world/02.m3u8
-#EXTINF:-1,Osn star movies
+#EXTINF:-1, group-title="地方频道",Osn star movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/02.m3u8
-#EXTINF:-1,Music now
+#EXTINF:-1, group-title="地方频道",Music now
 http://livecdnh1.tvanywhere.ae/hls/music_now/02.m3u8
-#EXTINF:-1,CINEMA 1 HD
+#EXTINF:-1, group-title="地方频道",CINEMA 1 HD
 http://livecdnh1.tvanywhere.ae/hls/cin1/05.m3u8
-#EXTINF:-1,cinema 1 sd
+#EXTINF:-1, group-title="地方频道",cinema 1 sd
 http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
-#EXTINF:-1,Music Now HD
+#EXTINF:-1, group-title="地方频道",Music Now HD
 http://livecdnh1.tvanywhere.ae/hls/music_now/05.m3u8
-#EXTINF:-1,Music Now sd
+#EXTINF:-1, group-title="地方频道",Music Now sd
 http://livecdnh1.tvanywhere.ae/hls/music_now/03.m3u8
-#EXTINF:-1,STAR MOVIES HD
+#EXTINF:-1, group-title="地方频道",STAR MOVIES HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1,Star Movies SD
+#EXTINF:-1, group-title="地方频道",Star Movies SD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
-#EXTINF:-1,STAR WORLD HD
+#EXTINF:-1, group-title="地方频道",STAR WORLD HD
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:-1,Star World SD
+#EXTINF:-1, group-title="地方频道",Star World SD
 http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
-#EXTINF:-1,Nat geo people HD ENGLISH
+#EXTINF:-1, group-title="地方频道",Nat geo people HD ENGLISH
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1,Nat geo people SD ENGLISH
+#EXTINF:-1, group-title="地方频道",Nat geo people SD ENGLISH
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-#EXTINF:-1,Nat geo wild SD
+#EXTINF:-1, group-title="地方频道",Nat geo wild SD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:-1,Nat geo wild HD
+#EXTINF:-1, group-title="地方频道",Nat geo wild HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1,Dmc drama sd
+#EXTINF:-1, group-title="地方频道",Dmc drama sd
 http://livecdnh1.tvanywhere.ae/hls/dmcdrama/02.m3u8
-#EXTINF:-1,Dmc drama MQ
+#EXTINF:-1, group-title="地方频道",Dmc drama MQ
 http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
-#EXTINF:-1,arab cinema 1 hi
+#EXTINF:-1, group-title="地方频道",arab cinema 1 hi
 http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
-#EXTINF:-1,nat_geo
+#EXTINF:-1, group-title="地方频道",nat_geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1,ProSieben-Maxx
+#EXTINF:-1, group-title="地方频道",ProSieben-Maxx
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
-#EXTINF:-1,STAR MOVIES FHD
+#EXTINF:-1, group-title="地方频道",STAR MOVIES FHD
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/04.m3u8
-#EXTINF:-1,STAR WORLD FHD
+#EXTINF:-1, group-title="地方频道",STAR WORLD FHD
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/04.m3u8
-#EXTINF:-1,STAR WORLD PREMIER FHD
+#EXTINF:-1, group-title="地方频道",STAR WORLD PREMIER FHD
 http://livecdnh1.tvanywhere.ae:80/hls/music_now/04.m3u8
-#EXTINF:-1,ARABIC | NBN HD
+#EXTINF:-1, group-title="地方频道",ARABIC | NBN HD
 http://livecdnh1.tvanywhere.ae:80/hls/nbn/05.m3u8
-#EXTINF:-1,National Geographic
+#EXTINF:-1, group-title="地方频道",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF:-1, Sports EPL 1 – Sports EPL 1
+#EXTINF:-1, group-title="地方频道",Sports EPL 1 – Sports EPL 1
 http://163.172.118.212:80/live.ts?channelId=190&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1, Sports EPL 2 – Sports EPL 2
+#EXTINF:-1, group-title="地方频道",Sports EPL 2 – Sports EPL 2
 http://163.172.118.212:80/live.ts?channelId=191&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1, Sports EPL 3 – Sports EPL 3
+#EXTINF:-1, group-title="地方频道",Sports EPL 3 – Sports EPL 3
 http://163.172.118.212:80/live.ts?channelId=192&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF：-1，英國：電影院（盜版）SD
+#EXTINF:-1, group-title="地方频道",英國：電影院（盜版）SD
 http://thenew.tv:8000/Roxy1/Roxy12/21683
-#EXTINF：-1，英國：4音樂| SD
+#EXTINF:-1, group-title="地方频道",英國：4音樂| SD
 http://thenew.tv:8000/Roxy1/Roxy12/7775
-#EXTINF：-1，UK：4SEVEN | 高清
+#EXTINF:-1, group-title="地方频道",UK：4SEVEN | 高清
 http://thenew.tv:8000/Roxy1/Roxy12/21606
-#EXTINF：-1，UK：5 SELECT | HD
+#EXTINF:-1, group-title="地方频道",UK：5 SELECT | HD
 http://thenew.tv:8000/Roxy1/Roxy12/21602
-#EXTINF：-1，UK：5 SPIKE | SD
+#EXTINF:-1, group-title="地方频道",UK：5 SPIKE | SD
 http://thenew.tv:8000/Roxy1/Roxy12/21600
-#EXTINF：-1，UK：5星1 | SD
+#EXTINF:-1, group-title="地方频道",UK：5星1 | SD
 http://thenew.tv:8000/Roxy1/Roxy12/21598
-#EXTINF：-1，UK：5星| SD
+#EXTINF:-1, group-title="地方频道",UK：5星| SD
 http://thenew.tv:8000/Roxy1/Roxy12/21597
-#EXTINF：-1，UK：5 USA | SD
+#EXTINF:-1, group-title="地方频道",UK：5 USA | SD
 http://thenew.tv:8000/Roxy1/Roxy12/21592
-#EXTINF：-1，UK：AL JAZEERA | 超高清
+#EXTINF:-1, group-title="地方频道",UK：AL JAZEERA | 超高清
 http://thenew.tv:8000/Roxy1/Roxy12/5833
-#EXTINF：-1，UK：ALIBI | SD
+#EXTINF:-1, group-title="地方频道",UK：ALIBI | SD
 http://thenew.tv:8000/Roxy1/Roxy12/21590
-#EXTINF：-1，UK：Alibi HD
+#EXTINF:-1, group-title="地方频道",UK：Alibi HD
 http://thenew.tv:8000/Roxy1/Roxy12/22272
-#EXTINF：-1，UK：AMC | UHD
+#EXTINF:-1, group-title="地方频道",UK：AMC | UHD
 http://thenew.tv:8000/Roxy1/Roxy12/21682
-#EXTINF：-1，UK：Animal Planet
+#EXTINF:-1, group-title="地方频道",UK：Animal Planet
 http://thenew.tv:8000/Roxy1/Roxy12/21609
-#EXTINF：-1，UK：At種族| SD
+#EXTINF:-1, group-title="地方频道",UK：At種族| SD
 http://thenew.tv:8000/Roxy1/Roxy12/21794
-#EXTINF：-1，UK：BABY TV | SD
+#EXTINF:-1, group-title="地方频道",UK：BABY TV | SD
 http://thenew.tv:8000/Roxy1/Roxy12/9783
 #EXTINF：-1，UK：BBC ALBA | SD
 http://thenew.tv:8000/Roxy1/Roxy12/21589
-#EXTINF：-1，UK：BBC四| 高清
+##EXTINF:-1, group-title="地方频道",UK：BBC四| 高清
 http://thenew.tv:8000/Roxy1/Roxy12/21586
-#EXTINF：-1，UK：BBC新聞高清
+#EXTINF:-1, group-title="地方频道",UK：BBC新聞高清
 http://thenew.tv:8000/Roxy1/Roxy12/21621
-#EXTINF：-1，UK：BBC ONE（北愛爾蘭）| HD
+#EXTINF:-1, group-title="地方频道",UK：BBC ONE（北愛爾蘭）| HD
 http://thenew.tv:8000/Roxy1/Roxy12/21582
-#EXTINF：-1，UK：BBC ONE（Scottland）| HD
+#EXTINF:-1, group-title="地方频道",UK：BBC ONE（Scottland）| HD
 http://thenew.tv:8000/Roxy1/Roxy12/21581
-#EXTINF：-1，UK：BBC ONE | UHD
+#EXTINF:-1, group-title="地方频道",UK：BBC ONE | UHD
 http://thenew.tv:8000/Roxy1/Roxy12/21579
-#EXTINF：-1，UK：BBC One Cambridge | SD
+#EXTINF:-1, group-title="地方频道",UK：BBC One Cambridge | SD
 http://thenew.tv:8000/Roxy1/Roxy12/21577
 #EXTINF：-1，UK：BBC一頻道群島| SD
 http://thenew.tv:8000/Roxy1/Roxy12/21575
