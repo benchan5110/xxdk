@@ -59,6 +59,16 @@ http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 #EXTINF:-1, group-title="地方频道", BBC-Toronto
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 =====================================================================
+#EXTINF:-1, group-title="地方频道", 求索记录
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
+#EXTINF:-1, group-title="地方频道", 求索科学
+http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
+#EXTINF:-1, group-title="地方频道", 求索动物
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
+#EXTINF:-1, group-title="地方频道", 求索生活
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
+#EXTINF:-1, group-title="地方频道", 历史频道HD
+http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8
 #EXTINF:-1, group-title="地方频道", 台 国家地理 
 rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 #EXTINF:-1, group-title="地方频道", 探索科学
