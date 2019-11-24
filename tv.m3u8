@@ -2,6 +2,8 @@
 =====================================================
 #EXTINF:-1, group-title="地方频道", 香港电影频道
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1, group-title="地方频道", 广东体育HDP
+http://stream1.grtn.cn/typd/sd/live.m3u8?_upt=243520231569176348
 #EXTINF:-1, group-title="地方频道", 广东体育1
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=020&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1, group-title="地方频道", 广东体育2
