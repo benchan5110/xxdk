@@ -1,33 +1,33 @@
 #EXTM3U
 =====================================================
-#EXTINF:-1, group-title="地方频道", 香港电影频道Hong Kong Movie Channel
+#EXTINF:-1, group-title="地方频道", 香港电影频道
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 
-#EXTINF:-1, group-title="地方频道", 广东体育1Guangdong Sports
+#EXTINF:-1, group-title="地方频道", 广东体育1
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=020&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-#EXTINF:-1, group-title="地方频道", 广东体育2Guangdong Sports
+#EXTINF:-1, group-title="地方频道", 广东体育2
 http://cdn12.switchium.com/gdty.m3u8
-#EXTINF:-1, group-title="地方频道", 民视新闻CCTV News
+#EXTINF:-1, group-title="地方频道", 民视新闻
 http://210.61.56.23/hls/ftvtv/index.m3u8
-#EXTINF:-1, group-title="地方频道", 台湾壹新闻Taiwan One News
+#EXTINF:-1, group-title="地方频道", 台湾壹新闻
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
-#EXTINF:-1, group-title="地方频道", 湖南快乐购Hunan Happy Shopping
+#EXTINF:-1, group-title="地方频道", 湖南快乐购
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047427/index.m3u8?
 #EXTINF:-1, group-title="地方频道", ViuTV
 http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
-#EXTINF:-1, group-title="地方频道",香港电台31RTHK 
+#EXTINF:-1, group-title="地方频道",香港电台31
 http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_1296_av-b.m3u8
-#EXTINF:-1, group-title="地方频道",香港开电视TV in Hong Kong
+#EXTINF:-1, group-title="地方频道",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1, group-title="地方频道",J2
 http://198.16.106.58:8278/j2_twn/playlist.m3u8?tid=m02000000000014784480&ct=17993&tsum=d2195b95e329bcd0d63bcabb67d3ca2f
-#EXTINF:-1, group-title="地方频道",TVB翡翠台HD Emerald
+#EXTINF:-1, group-title="地方频道",TVB翡翠台HD
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1, group-title="地方频道",TVB明珠台
 http://m.567it.com/Pearl.m3u8
 #EXTINF:-1, group-title="地方频道",ANIPLUS HD
 http://45.126.83.51/dr9445/h/h02/01.m3u8
-#EXTINF:-1, group-title="地方频道",漫威Marvel
+#EXTINF:-1, group-title="地方频道",漫威
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1, group-title="地方频道",Disney
 https://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
