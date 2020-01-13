@@ -151,59 +151,59 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 #EXTINF:-1 group-title="地方频道",Star World SD
 http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
 =====================================================
-#EXTINF:-1 group-title="地方频道",内蒙古
+#EXTINF:-1 group-title="地方频道",内蒙古Inner Mongolia
 http://223.110.245.139:80/PLTV/4/224/3221225836/index.m3u8
-#EXTINF:-1 group-title="地方频道",黑龙江
+#EXTINF:-1 group-title="地方频道",黑龙江Heilongjiang
 http://223.110.245.139:80/PLTV/4/224/3221227492/index.m3u8
-#EXTINF:-1 group-title="地方频道",上海卫视
+#EXTINF:-1 group-title="地方频道",上海卫视Shanghai Satellite TV
 http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227208/index.m3u8
-#EXTINF:-1 group-title="地方频道",上海纪实
+#EXTINF:-1 group-title="地方频道",上海纪实Shanghai Documentary
 http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227420/index.m3u8
-#EXTINF:-1 group-title="地方频道",云南卫视
+#EXTINF:-1 group-title="地方频道",云南卫视Yunnan Satellite TV
 http://cctvtxyh5c.liveplay.myqcloud.com/wstv/yunnan_2/index.m3u8
-#EXTINF:-1 group-title="地方频道",凤凰中文
+#EXTINF:-1 group-title="地方频道",凤凰中文Phoenix Chinese
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 group-title="地方频道",凤凰资讯
+#EXTINF:-1 group-title="地方频道",凤凰资讯Phoenix Info
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 group-title="地方频道",北京卫视
+#EXTINF:-1 group-title="地方频道",北京卫视Phoenix Info
 http://cctvalih5c.v.myalicdn.com/wstv/btv1_2/index.m3u8
-#EXTINF:-1 group-title="地方频道",北京时间
+#EXTINF:-1 group-title="地方频道",北京时间Beijing time
 http://play5.kandian.360.cn/live_news_1500/main_output_m1/index.m3u8
-#EXTINF:-1 group-title="地方频道",北京纪实
+#EXTINF:-1 group-title="地方频道",北京纪实Beijing Documentary
 http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-#EXTINF:-1 group-title="地方频道",北京青年
+#EXTINF:-1 group-title="地方频道",北京青年Beijing Youth
 http://ivi.bupt.edu.cn/hls/btv8.m3u8
-#EXTINF:-1 group-title="地方频道",吉林卫视
+#EXTINF:-1 group-title="地方频道",吉林卫视Jilin Satellite TV
 http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226057/index.m3u8
-#EXTINF:-1 group-title="地方频道",四川卫视
+#EXTINF:-1 group-title="地方频道",四川卫视Sichuan Satellite TV
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8
-#EXTINF:-1 group-title="地方频道",天津卫视
+#EXTINF:-1 group-title="地方频道",天津卫视Tianjin Satellite TV
 http://cctvalih5c.v.myalicdn.com/wstv/tianjin_2/index.m3u8
-#EXTINF:-1 group-title="地方频道",宁夏卫视
+#EXTINF:-1 group-title="地方频道",宁夏卫视Ningxia Satellite TV
 http://121.31.30.90:8085/ysten-business/live/ningxiastv/yst.m3u8
-#EXTINF:-1 group-title="地方频道",安徽卫视
+#EXTINF:-1 group-title="地方频道",安徽卫视Anhui Satellite TV
 http://cctvtxyh5c.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8
-#EXTINF:-1 group-title="地方频道",山东卫视
+#EXTINF:-1 group-title="地方频道",山东卫视Shandong Satellite TV
 http://cctvalih5c.v.myalicdn.com/wstv/shandong_2/index.m3u8
-#EXTINF:-1 group-title="地方频道",山东教育
+#EXTINF:-1 group-title="地方频道",山东教育Shandong Education
 http://111.40.205.87/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 group-title="地方频道",山东齐鲁
+#EXTINF:-1 group-title="地方频道",山东齐鲁Qilu, Shandong
 http://ksdlive.gwpd.iqilu.com/qlpd.m3u8
-#EXTINF:-1 group-title="地方频道",山西卫视
+#EXTINF:-1 group-title="地方频道",山西卫视Shanxi TV
 http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226091/index.m3u8
-#EXTINF:-1 group-title="地方频道",广东卫视
+#EXTINF:-1 group-title="地方频道",广东卫视Guangdong Satellite TV
 http://cctvalih5c.v.myalicdn.com/wstv/guangdong_2/index.m3u8
-#EXTINF:-1 group-title="地方频道",广西卫视
+#EXTINF:-1 group-title="地方频道",广西卫视Guangxi Satellite TV
 http://121.31.30.90:8085/ysten-business/live/guangxistv/yst.m3u8
-#EXTINF:-1 group-title="地方频道",新疆卫视
+#EXTINF:-1 group-title="地方频道",新疆卫视Xinjiang Satellite TV
 http://183.207.249.7/PLTV/3/224/3221225523/index.m3u8
-#EXTINF:-1 group-title="地方频道",江苏公共
+#EXTINF:-1 group-title="地方频道",江苏公共Jiangsu Public
 http://223.110.241.204:6610/gitv/live1/G_JSGG/G_JSGG/
-#EXTINF:-1 group-title="地方频道",江苏卫视
+#EXTINF:-1 group-title="地方频道",江苏卫视Jiangsu Satellite TV
 http://223.110.245.170/PLTV/3/224/3221227255/index.m3u8
-#EXTINF:-1 group-title="地方频道",江苏城市
+#EXTINF:-1 group-title="地方频道",江苏城市Jiangsu City
 http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225929/index.m3u8
-#EXTINF:-1 group-title="地方频道",江苏影视
+#EXTINF:-1 group-title="地方频道",江苏影视Jiangsu Television
 http://223.110.241.204:6610/gitv/live1/G_JSYS/G_JSYS/
 #EXTINF:-1 group-title="地方频道",江苏教育
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
