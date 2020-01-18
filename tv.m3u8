@@ -36,6 +36,14 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 https://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
 #EXTINF:-1, group-title="地方频道", 香港HKS
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 日本WOWOW MOVIES
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1, group-title="地方频道", 日本NTV News24
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1, group-title="地方频道", 日本Shop Channel HD
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1, group-title="地方频道", 日本Japanet Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/6BGC1fw.jpg" tvg-country="JP" tvg-url="" group-title="",BS 日本映画
 http://192.240.127.34:1935/live/cs19.stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/6BGC1fw.jpg" tvg-country="JP" tvg-url="" group-title="",BS 日本映画
@@ -104,14 +112,6 @@ http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
 http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/E3hNfeG.jpg" tvg-country="TW" tvg-url="" group-title="",靖天日本
 http://61.58.60.230:9319/live/243.m3u8
-#EXTINF:-1, group-title="地方频道", 日本WOWOW MOVIES
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-#EXTINF:-1, group-title="地方频道", 日本NTV News24
-http://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1, group-title="地方频道", 日本Shop Channel HD
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1, group-title="地方频道", 日本Japanet Channel DX
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 #EXTINF:-1, group-title="地方频道", 韩Chosun HD
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 #EXTINF:-1, group-title="地方频道", 韩Sony One HD2
