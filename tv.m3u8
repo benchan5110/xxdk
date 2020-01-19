@@ -6,15 +6,15 @@ http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2
 http://210.210.155.35/dr9445/h/h144/01.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://thehypedgeek.com/wp-content/uploads/2017/05/Aniplus-HD.jpg" tvg-country="English" tvg-url="" group-title="",Aniplus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF:-1, group-title="地方频道", 广东体育1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="地方頻道" tvg-logo="https://i1.kknews.cc/SIG=22ai07k/ctp-vzntr/152886607904342pn5rq924.jpg" tvg-country="地方頻道" tvg-url="" group-title="",廣東體育
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=020&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-#EXTINF:-1, group-title="地方频道", 广东体育2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="地方頻道" tvg-logo="https://i1.kknews.cc/SIG=22ai07k/ctp-vzntr/152886607904342pn5rq924.jpg" tvg-country="地方頻道" tvg-url="" group-title="",廣東體育
 http://cdn12.switchium.com/gdty.m3u8
 #EXTINF:-1, group-title="地方频道", 民视新闻
 http://210.61.56.23/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="地方頻道" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_fMTospARmgQ60hAyJIYqKer7799fcfgDt=s900-c-k-c0xffffffff-no-rj-mo" tvg-country="地方頻道" tvg-url="" group-title="",ViuTV
 http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
-#EXTINF:-1, group-title="地方频道",香港电台31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="地方頻道" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDoRrjcKGNxtfsiewTFTcEfDmQqywsDTdlKCXgPnBcN5mrjnXk&s" tvg-country="地方頻道" tvg-url="" group-title="",香港电台31
 http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_1296_av-b.m3u8
 #EXTINF:-1, group-title="地方频道",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
